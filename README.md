@@ -18,6 +18,9 @@
     + 1228_R_introduction.pdf ...講義スライド
     + exercises.pdf …「テキスト分析のためのR入門」用のエクササイズ(演習)
     + exercise/* ...エクササイズで使うデータセット
+    + exercises_answer.pdf ...エクササイズの解答です
+    + exercises_answer.ipynb ...Jupyter notebook版のエクササイズの解答です。GitHub上や、nbviewer(https://nbviewer.jupyter.org/)を用いて見ることができます。
+
 + 「Rを用いたテキスト分析実習」
     + (日程が近くなったらアップロードします)
 
