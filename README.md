@@ -22,7 +22,8 @@
     + exercises_answer.ipynb ...Jupyter notebook版のエクササイズの解答です。GitHub上や、nbviewer(https://nbviewer.jupyter.org/)を用いて見ることができます。
 
 + 「Rを用いたテキスト分析実習」
+    + 0118_textmining.pdf ...講義スライド①
+    + 0118_analysis.pdf ...講義スライド②
     + dict/* …辞書データのサンプル
     + preprocessing.ipynb …前処理のRコード
-
 
