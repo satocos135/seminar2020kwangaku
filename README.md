@@ -26,4 +26,9 @@
     + 0118_analysis.pdf ...講義スライド②
     + dict/* …辞書データのサンプル
     + preprocessing.ipynb …前処理のRコード
+    + analysis01_sanbika21.ipynb …分析デモ①『讃美歌21』の分析*
+    + analysis02_ccli100.ipynb …分析デモ②CCLI TOP 100の分析*
+
+\* 分析に使った歌詞データは公開しません（著作権が切れていないため）
+
 
